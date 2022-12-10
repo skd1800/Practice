@@ -9,7 +9,12 @@ line8
 line6
 line9
 
+<<<<<<< HEAD
 line11, Sritam
 
+=======
+line11
+line12
+>>>>>>> f49af01dc6cf2d08f16106fc3938e15839a7b892
 line10
 
