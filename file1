@@ -8,4 +8,8 @@ line6.1
 line8
 line6
 line9
+<<<<<<< Updated upstream
 line11
+=======
+line10
+>>>>>>> Stashed changes
