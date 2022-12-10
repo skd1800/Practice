@@ -3,4 +3,8 @@ line2
 line3
 line5
 line4
+<<<<<<< HEAD
 line7
+=======
+line6
+>>>>>>> f9a1f89caf2a2087f1999364f83dccbace5e77ff
